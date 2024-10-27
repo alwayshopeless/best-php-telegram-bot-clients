@@ -13,6 +13,7 @@
 - Multiple bots support
 - Clean architecture
 - Comprehensive exception handling
+- Possibility of use with Swoole after some configuration
 
 **Limitations:**
 - Requires PHP 8.0+
@@ -188,6 +189,7 @@ if ($content !== false) {
 - Want active development and updates
 - Need robust testing capabilities
 - Care about security and best practices
+- Need Laravel or Symfony integration
 
 ### Choose Telegram Bot SDK if you:
 - Need Laravel integration
@@ -197,7 +199,6 @@ if ($content !== false) {
 ### Choose BotMan if you:
 - Need multi-platform support
 - Stuck with PHP 7.x
-- Have existing BotMan implementation
 
 ### Avoid TelegramBotPHP and php-telegram-bot/core due to:
 - Lack of modern PHP practices
@@ -210,7 +211,7 @@ if ($content !== false) {
 ## Requirements
 - PHP 7.4+ (8.0+ for Nutgram)
 - Composer
-- SSL certificate for webhook
+- SSL certificate for webhook(optional)
 - PHP extensions: curl, json, mbstring
 
 ## Security Considerations
