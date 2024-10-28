@@ -5,7 +5,7 @@
 | Feature | Nutgram | Telegram Bot SDK | BotMan | TelegramBotPHP | php-telegram-bot/core |
 |---------|---------|------------------|---------|----------------|---------------------|
 | Multiple Bots | ✅ | ✅ | ✅ | ✅ | ❌ |
-| PHP 8.0+ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| PHP 8.0+ | ✅ | ✅ | 🟡 | ❌ | ❌ |
 | Type Safety | ✅ | 🟡 | 🟡 | ❌ | ❌ |
 | Testability | ✅ | 🟡 | ✅ | ❌ | ❌ |
 | Active Development | ✅ | 🟡 | ❌ | ❌ | ❌ |
