@@ -1,4 +1,23 @@
-# PHP Telegram Bot Libraries Analysis
+# Best PHP Telegram Bot client/libraries 
+
+## Brief comparison
+
+| Feature | Nutgram | Telegram Bot SDK | BotMan | TelegramBotPHP | php-telegram-bot/core |
+|---------|---------|------------------|---------|----------------|---------------------|
+| Multiple Bots | ✅ | ✅ | ✅ | ✅ | ❌ |
+| PHP 8.0+ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Type Safety | ✅ | 🟡 | 🟡 | ❌ | ❌ |
+| Testability | ✅ | 🟡 | ✅ | ❌ | ❌ |
+| Active Development | ✅ | 🟡 | ❌ | ❌ | ❌ |
+| Laravel Integration | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Namespaces | ✅ | ✅ | ✅ | ❌ | ✅ |
+| Composer Support | ✅ | ✅ | ✅ | ❌ | ✅ |
+| Exception Handling | ✅ | ✅ | ✅ | ❌ | 🟡 |
+| Security Best Practices | ✅ | ✅ | ✅ | ❌ | 🟡 |
+
+✅ Full support
+🟡 Partial support
+❌ Missing or problematic
 
 ## Overview
 
@@ -107,25 +126,6 @@ class Telegram {
 - Legacy architecture
 - Testing difficulties
 - Performance issues at scale
-
-## Feature Comparison
-
-| Feature | Nutgram | Telegram Bot SDK | BotMan | TelegramBotPHP | php-telegram-bot/core |
-|---------|---------|------------------|---------|----------------|---------------------|
-| Multiple Bots | ✅ | ✅ | ✅ | ✅ | ❌ |
-| PHP 8.0+ | ✅ | ✅ | ❌ | ❌ | ❌ |
-| Type Safety | ✅ | 🟡 | 🟡 | ❌ | ❌ |
-| Testability | ✅ | 🟡 | ✅ | ❌ | ❌ |
-| Active Development | ✅ | 🟡 | ❌ | ❌ | ❌ |
-| Laravel Integration | ✅ | ✅ | ✅ | ❌ | ❌ |
-| Namespaces | ✅ | ✅ | ✅ | ❌ | ✅ |
-| Composer Support | ✅ | ✅ | ✅ | ❌ | ✅ |
-| Exception Handling | ✅ | ✅ | ✅ | ❌ | 🟡 |
-| Security Best Practices | ✅ | ✅ | ✅ | ❌ | 🟡 |
-
-✅ Full support
-🟡 Partial support
-❌ Missing or problematic
 
 ## Modern Code Examples
 
