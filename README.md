@@ -11,7 +11,7 @@
 | Active Development | ✅ | 🟡 | ❌ | ❌ | ❌ |
 | Laravel Integration | ✅ | ✅ | ✅ | ❌ | ❌ |
 | Namespaces | ✅ | ✅ | ✅ | ❌ | ✅ |
-| Composer Support | ✅ | ✅ | ✅ | ❌ | ✅ |
+| Composer Support | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Exception Handling | ✅ | ✅ | ✅ | ❌ | 🟡 |
 | Security Best Practices | ✅ | ✅ | ✅ | ❌ | 🟡 |
 
